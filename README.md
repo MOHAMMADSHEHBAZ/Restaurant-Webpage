@@ -3,6 +3,8 @@
 ![Screenshot (19)](https://github.com/MOHAMMADSHEHBAZ/Restaurant-Webpage/assets/121683891/c8278d24-a25b-4d05-a79b-99780fde1a8b)
 ![Screenshot (20)](https://github.com/MOHAMMADSHEHBAZ/Restaurant-Webpage/assets/121683891/423498ff-175c-42b6-bcd6-49620a99be0b)
 
+### `Show Your Support`
+Give a ⭐ if you like this project!
 
 ### `Set Up`
 npm start
